@@ -8,6 +8,8 @@ This project is a Progressive Web Application (PWA) text editor that runs in the
 
 NOTE: Code recopied from a corrupt repo, current code has been refactored and debugged.
 
+<img width="873" alt="Screenshot 2024-10-14 at 1 08 49 PM" src="https://github.com/user-attachments/assets/d974a845-3827-43b1-a380-380277a2dbde">
+
 ## Table of Contents
 
 - [User Story](#user-story)
